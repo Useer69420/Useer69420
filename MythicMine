@@ -1,0 +1,26 @@
+d>
+    <title>My Website</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to MythicMine</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="https://mythicmine.com">Home</a></li>
+            <li><a href="https://mythicmine.com/about">About</a></li>
+            <li><a href="https://mythicmine.com/contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section>
+        <h2>About MythicMine</h2>
+        <p>Hello! MythicMine is a website dedicated to providing valuable information about various topics.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2022 MythicMine. All rights reserved.</p>
+    </footer>
+</body>
+</html>
